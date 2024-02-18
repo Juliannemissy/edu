@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375690477238",
+    "project_id": "chitty-chatty-ed090",
+    "storage_bucket": "chitty-chatty-ed090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375690477238:android:c7f8fc619e5990f12f3017",
+        "android_client_info": {
+          "package_name": "com.chitchat.chittychatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375690477238-ok3m327u32ko82ghim6torqrs3uudjr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnwHzzUpznPnO5cjpg_2OyCXbgtwz6OGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375690477238-ok3m327u32ko82ghim6torqrs3uudjr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
